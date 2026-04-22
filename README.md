@@ -38,5 +38,5 @@ React • JavaScript • TypeScript (learning) • .NET Core • C# • Python �
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/keith-gaines-378bba163/
+- LinkedIn: https://www.linkedin.com/in/keithgaines/
 - Portfolio: https://keithresume.vercel.app/
