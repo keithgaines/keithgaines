@@ -1,45 +1,118 @@
-Keith Gaines  
-Full Stack Engineer specializing in React and .NET ecosystems
+# Keith Gaines
 
-I design and build full-stack web applications with a focus on clean architecture, scalable API design, and maintainable frontend state systems. My work emphasizes production-style structure, separation of concerns, and practical UX implementation.
+Full Stack Engineer focused on building business applications using React, .NET, and SQL.
+
+I design and develop software that helps teams organize information, automate workflows, and make better decisions. My experience spans frontend development, backend APIs, database design, and production-style application architecture.
 
 ---
 
 ## Current Focus
 
-- Designing scalable full-stack systems using React and .NET
-- Improving API design, data modeling, and backend structure
-- Strengthening system design fundamentals (state, persistence, architecture boundaries)
-- Building portfolio projects that simulate production environments
+- Building full-stack applications with React and .NET
+- Designing APIs and data models that support business workflows
+- Applying clean architecture and maintainable system design principles
+- Creating portfolio projects that mirror real-world operational platforms
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### Portfolio Website
-React-based portfolio demonstrating modern UI layout, responsive design systems, and project-based case study structure.
+### Payments Operations Platform
 
-### Kanban Web App (Redux)
-Task management system built with React and Redux showcasing complex client-side state modeling, drag-and-drop workflows, and predictable state transitions.
+Internal operations platform built to support transaction monitoring and payment analytics.
+
+**Technologies:** ASP.NET Core, PostgreSQL, Entity Framework Core, Next.js, TypeScript, Azure
+
+**Highlights**
+
+- Designed REST APIs for merchants, transactions, and analytics
+- Built filtering and investigation workflows for operational teams
+- Implemented dashboard metrics and KPI reporting
+- Deployed backend services to Azure and frontend applications to Vercel
+- Structured the project using production-style architecture and CI/CD practices
+
+---
+
+### Photosnap Platform Modernization
+
+Modernized and upgraded an existing RedwoodJS application to improve maintainability and deployment reliability.
+
+**Technologies:** RedwoodJS, React, TypeScript, Vite
+
+**Highlights**
+
+- Migrated the application to modern tooling and framework versions
+- Refactored CSS architecture for responsive layouts
+- Resolved deployment and build issues
+- Improved overall maintainability and project structure
+
+---
+
+### Galleria Interactive Art Gallery
+
+Responsive web application focused on user experience and state-driven navigation.
+
+**Technologies:** React, JavaScript, CSS
+
+**Highlights**
+
+- Implemented slideshow and image viewing experiences
+- Built responsive layouts for desktop and mobile devices
+- Added interactive navigation and lightbox functionality
+
+---
 
 ### NZ Walks API
-REST API built with .NET Core demonstrating structured routing, layered architecture, and data modeling for domain-driven endpoints.
 
-### Bulky Book
-ASP.NET MVC e-commerce application with server-rendered architecture, authentication flows, and SQL-backed persistence.
+REST API demonstrating structured backend development and domain modeling.
 
-### Morse Code Converter (Python)
-Packaged Python application with CLI + GUI interfaces, including automated testing, linting, CI pipeline, and modular core logic separation.
+**Technologies:** ASP.NET Core, Entity Framework Core, SQL Server
 
----
+**Highlights**
 
-## Technical Focus Areas
-
-React • State Management (Redux) • .NET Core • C# • REST API Design • SQL • Python • Git • CI/CD Pipelines • Modular Architecture
+- Designed resource-based API endpoints
+- Implemented layered application architecture
+- Modeled relational data structures
+- Applied REST principles and clean separation of concerns
 
 ---
 
-## Contact
+## Technical Areas
 
-LinkedIn: https://www.linkedin.com/in/keithgaines/  
-Portfolio: https://keithresume.vercel.app/
+### Frontend
+
+- React
+- TypeScript
+- Redux
+- Next.js
+- Responsive Design
+
+### Backend
+
+- C#
+- ASP.NET Core
+- REST APIs
+- Entity Framework Core
+- SQL
+
+### Cloud and DevOps
+
+- Azure
+- AWS
+- GitHub Actions
+- CI/CD Pipelines
+
+### Architecture
+
+- Clean Architecture
+- State Management
+- Database Design
+- System Design
+- Modular Application Structure
+
+---
+
+## Connect
+
+- **Portfolio:** https://keithresume.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/keithgaines
