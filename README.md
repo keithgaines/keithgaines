@@ -1,17 +1,8 @@
-# Keith Gaines
+# Hi, I'm Keith Gaines.
 
-Full Stack Engineer focused on building business applications using React, .NET, and SQL.
+I'm a Full Stack Engineer building internal platforms and business applications with React, .NET, and SQL.
 
-I design and develop software that helps teams organize information, automate workflows, and make better decisions. My experience spans frontend development, backend APIs, database design, and production-style application architecture.
-
----
-
-## Current Focus
-
-- Building full-stack applications with React and .NET
-- Designing APIs and data models that support business workflows
-- Applying clean architecture and maintainable system design principles
-- Creating portfolio projects that mirror real-world operational platforms
+My background spans frontend development, backend APIs, database design, and production-style architecture. I enjoy building software that helps teams monitor operations, automate workflows, and turn data into useful information.
 
 ---
 
@@ -19,100 +10,83 @@ I design and develop software that helps teams organize information, automate wo
 
 ### Payments Operations Platform
 
-Internal operations platform built to support transaction monitoring and payment analytics.
+A production-style platform for monitoring transactions and supporting payment operations workflows.
 
-**Technologies:** ASP.NET Core, PostgreSQL, Entity Framework Core, Next.js, TypeScript, Azure
+**Stack**
+
+Next.js • ASP.NET Core • PostgreSQL • Azure
 
 **Highlights**
 
-- Designed REST APIs for merchants, transactions, and analytics
-- Built filtering and investigation workflows for operational teams
-- Implemented dashboard metrics and KPI reporting
-- Deployed backend services to Azure and frontend applications to Vercel
-- Structured the project using production-style architecture and CI/CD practices
+* Built APIs for merchants, transactions, and analytics
+* Designed dashboard views and investigation workflows
+* Implemented filtering and KPI reporting
+* Structured the application using production-style architecture and CI/CD practices
 
 ---
 
 ### Photosnap Platform Modernization
 
-Modernized and upgraded an existing RedwoodJS application to improve maintainability and deployment reliability.
+Modernized an existing application to improve maintainability and deployment reliability.
 
-**Technologies:** RedwoodJS, React, TypeScript, Vite
+**Stack**
 
-**Highlights**
-
-- Migrated the application to modern tooling and framework versions
-- Refactored CSS architecture for responsive layouts
-- Resolved deployment and build issues
-- Improved overall maintainability and project structure
-
----
-
-### Galleria Interactive Art Gallery
-
-Responsive web application focused on user experience and state-driven navigation.
-
-**Technologies:** React, JavaScript, CSS
+RedwoodJS • React • TypeScript • Vite
 
 **Highlights**
 
-- Implemented slideshow and image viewing experiences
-- Built responsive layouts for desktop and mobile devices
-- Added interactive navigation and lightbox functionality
+* Upgraded framework versions and tooling
+* Refactored frontend architecture and styling
+* Resolved deployment and build issues
+* Improved long-term maintainability
 
 ---
 
 ### NZ Walks API
 
-REST API demonstrating structured backend development and domain modeling.
+REST API demonstrating backend architecture and domain modeling.
 
-**Technologies:** ASP.NET Core, Entity Framework Core, SQL Server
+**Stack**
+
+ASP.NET Core • Entity Framework Core • SQL Server
 
 **Highlights**
 
-- Designed resource-based API endpoints
-- Implemented layered application architecture
-- Modeled relational data structures
-- Applied REST principles and clean separation of concerns
+* Designed resource-based endpoints
+* Modeled relational data structures
+* Applied layered architecture principles
+* Implemented clean separation of concerns
 
 ---
 
-## Technical Areas
+### Galleria
 
-### Frontend
+Interactive gallery application focused on responsive design and user experience.
 
-- React
-- TypeScript
-- Redux
-- Next.js
-- Responsive Design
+**Stack**
 
-### Backend
+React • JavaScript • CSS
 
-- C#
-- ASP.NET Core
-- REST APIs
-- Entity Framework Core
-- SQL
+**Highlights**
 
-### Cloud and DevOps
+* Built slideshow and lightbox functionality
+* Implemented responsive layouts
+* Focused on usability and state-driven interactions
 
-- Azure
-- AWS
-- GitHub Actions
-- CI/CD Pipelines
+---
 
-### Architecture
+## Currently Working On
 
-- Clean Architecture
-- State Management
-- Database Design
-- System Design
-- Modular Application Structure
+* Expanding the Payments Operations Platform with production-style workflows
+* Strengthening system design and architecture skills
+* Building projects that simulate real business applications
 
 ---
 
 ## Connect
 
-- **Portfolio:** https://keithresume.vercel.app
-- **LinkedIn:** https://www.linkedin.com/in/keithgaines
+🌐 Portfolio
+**https://keithresume.vercel.app**
+
+💼 LinkedIn
+**https://www.linkedin.com/in/keithgaines**
